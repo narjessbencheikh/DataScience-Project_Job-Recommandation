@@ -7,3 +7,5 @@ AlumnAI is a platform that helps students land their dream jobs through:
 - Customizable Profile Analysis: We provide insights and guidance to strengthen student profiles for optimal job matching.
 
 The platform benefits students by streamlining their job search process, universities by enhancing graduate career outcomes, and businesses by facilitating access to a qualified talent pool through targeted recruitment. With features including an intuitive dashboard for universities to monitor student progress, AlumnAI fosters a symbiotic relationship, empowering students, universities, and businesses alike.
+
+[Poster.pdf](https://github.com/user-attachments/files/17647068/Poster.pdf)
